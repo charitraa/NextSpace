@@ -112,7 +112,7 @@ A modern mobile application for discovering, booking, and managing coworking spa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ishanprad/NextSpace.git
+   git clone https://github.com/charitraa/NextSpace.git
 
    ```
 2. Navigate to the project directory:
